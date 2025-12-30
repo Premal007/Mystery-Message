@@ -26,7 +26,7 @@ export default function Home() {
             Dive into the World of Anonymous Messages
           </h1>
           <p className="mt-3 md:mt-4 text-base md:text-lg">
-            Mystrey Messages - Where your identity remains a secret.
+            Mystery Message - Where your identity remains a secret.
           </p>
         </section>
 
